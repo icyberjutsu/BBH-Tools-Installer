@@ -13,8 +13,8 @@ This script installs various bug bounty hunting tools, such as subdomain enumera
   5. You can use the following command to grant execution permissions to the script: chmod +x install-tool.sh
   6. Type the following command to install all the tools: ./install-tool.sh
   
-#installation
-git clone https://github.com/withamankr/secure-discovery.git
+# installation
+```git clone https://github.com/withamankr/secure-discovery.git```
 cd secure-discovery
 chmod +x install-tool.sh
 ./install-tool.sh
