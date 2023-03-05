@@ -12,7 +12,7 @@ This script installs various bug bounty hunting tools, such as subdomain enumera
   4. Navigate into the project directory using the "cd" command: cd secure-discovery
   5. Type the following command to install all the tools: ./install-tool.sh
 
-#Features:
+# Features:
 1. Automated installation of various commonly used tools and packages, including editors, programming languages, version control systems, and more.
 2. Simple and easy-to-use bash script for installation.
 3. Option to install all tools with a single comman.
