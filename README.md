@@ -8,16 +8,11 @@ This script installs various bug bounty hunting tools, such as subdomain enumera
 # Getting Started
   1. Open a terminal or command prompt on your computer.
   2. Use the "cd" command to navigate to the directory where you want to download the project.
-  3. Type the following command to download the project: git clone https://github.com/withamankr/secure-discovery.git
-  4. Navigate into the project directory using the "cd" command: cd secure-discovery
-  5. You can use the following command to grant execution permissions to the script: chmod +x install-tool.sh
-  6. Type the following command to install all the tools: ./install-tool.sh
-  
-# installation
-```git clone https://github.com/withamankr/secure-discovery.git```
-cd secure-discovery
-chmod +x install-tool.sh
-./install-tool.sh
+  3. Type the following command to download the project: ```git clone https://github.com/withamankr/secure-discovery.git```
+  4. Navigate into the project directory using the "cd" command: ```cd secure-discovery```
+  5. You can use the following command to grant execution permissions to the script: ```chmod +x install-tool.sh```
+  6. Type the following command to install all the tools: ```./install-tool.sh```
+
 
 # Features:
 1. Automated installation of various commonly used tools and packages, including editors, programming languages, version control systems, and more.
