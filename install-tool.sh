@@ -152,7 +152,7 @@ install_tools() {
        display_message "${YELLOW}" "\n#######################################################"
        display_message "${YELLOW}" "#                                                     #"
        display_message "${YELLOW}" "#          All tools installed successfully.          #"
-       display_message "${YELLOW}" "#             Project  Secure-Discovey                #"
+       display_message "${YELLOW}" "#            Project  BBH Tools Installer             #"
        display_message "${YELLOW}" "#                                                     #"
        display_message "${YELLOW}" "#######################################################"
     else
